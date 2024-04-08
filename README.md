@@ -1,3 +1,3 @@
-# Baekjoon
+# baekjoon
 
 ### Based on solved.ac
